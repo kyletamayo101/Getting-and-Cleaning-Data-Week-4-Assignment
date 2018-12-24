@@ -1,6 +1,6 @@
-#Activity Data CodeBook
-##Deous Kyle Tamayo
-###Introduction
+# Activity Data CodeBook
+## Deous Kyle Tamayo
+### Introduction
 This is the CodeBook for the Getting and Cleaning Data Assignment from Week 4.
 
 ### Raw Data
